@@ -6,5 +6,5 @@ get '/' do
 end
 
 get '/hello' do
-  'world'
+  'peter'
 end
